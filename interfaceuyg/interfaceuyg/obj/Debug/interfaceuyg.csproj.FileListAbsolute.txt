@@ -1,0 +1,11 @@
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\bin\Debug\interfaceuyg.exe.config
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\bin\Debug\interfaceuyg.exe
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\bin\Debug\interfaceuyg.pdb
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.csproj.AssemblyReference.cache
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.csproj.SuggestedBindingRedirects.cache
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.Form1.resources
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.Properties.Resources.resources
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.csproj.GenerateResource.cache
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.csproj.CoreCompileInputs.cache
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.exe
+D:\reposiskur\yeniii\interfaceuyg\interfaceuyg\obj\Debug\interfaceuyg.pdb
